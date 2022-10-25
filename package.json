@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PolestarLabs/skia-canvas-twemoji.git"
+    "url": "git+https://github.com/ewanhowell5195/skia-canvas-twemoji.git"
   },
   "bugs": {
-    "url": "https://github.com/PolestarLabs/skia-canvas-twemoji/issues"
+    "url": "https://github.com/ewanhowell5195/skia-canvas-twemoji/issues"
   },
-  "homepage": "https://github.com/PolestarLabs/skia-canvas-twemoji#readme",
+  "homepage": "https://github.com/ewanhowell5195/skia-canvas-twemoji#readme",
   "keywords": [
     "canvas",
     "skia-canvas",
@@ -24,7 +24,7 @@
   "author": "tsumari <tsumari@pollux.gg>",
   "license": "MIT",
   "dependencies": {
-    "skia-canvas": "^0.9.23",
+    "skia-canvas": "1.0.0",
     "twemoji": "^13.0.1"
   }
 }
