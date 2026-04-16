@@ -24,7 +24,7 @@
   "author": "tsumari <tsumari@pollux.gg>",
   "license": "MIT",
   "dependencies": {
-    "skia-canvas": "^2.0.2",
-    "twemoji": "^13.0.1"
+    "skia-canvas": "^3.0.8",
+    "twemoji": "^14.0.2"
   }
 }
